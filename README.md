@@ -15,11 +15,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee">
 
-<div align="left">
-  <h3>📚 Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,postgres">
-  <h3>🔧 Tools</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,figma,bootstrap">
+<h3 align="left">📚 Stack</h3>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,postgres">
+<h3 align="left">🔧 Tools</h3>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,docker,figma,bootstrap">
   <div>
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
