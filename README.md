@@ -7,7 +7,8 @@
 <img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" alt="Cowboy Bebop Edward coding">
 
 <h2>💬 About Me</h2>
-<p>I love figuring out how things work, tinkering with code, and problem-solving just about anything! I am a recent LearningFuze grad looking for a Junior Developer position.</p>
+<p>I love figuring out how things work, tinkering with code, and problem-solving just about anything! I am particularly interested in the intersection of medicine, humanity, and technology.</p> 
+<p>I am a recent LearningFuze grad looking for a Junior Developer position!</p>
 
 - 🐶 I’m currently working on [Woofles](https://github.com/alicejeeunlee/woofles)
 - 🌱 I’m currently learning **TypeScript**
