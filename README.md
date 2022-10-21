@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **TypeScript**
 - 🥾 When I'm not coding, I'm somewhere outside hiking, swimming, camping, going on a trip! ...or watching anime 😅
 
-<h4>🌐 Let's connect!</h4>
+<h3>🌐 Let's connect!</h3>
 <a href="https://www.linkedin.com/in/alicejeeunlee/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-alicejeeunlee-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white" alt="LinkedIn: alicejeeunlee"/></a>
 
 <h3>📚 Stack</h3>
