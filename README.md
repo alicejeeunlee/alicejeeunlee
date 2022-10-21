@@ -13,7 +13,7 @@
 <h3>🌐 Let's connect!</h3>
 <a href="https://www.linkedin.com/in/alicejeeunlee/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-alicejeeunlee-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white" alt="LinkedIn: alicejeeunlee"/></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee">
 
 <h3 align="left">📚 Stack</h3>
 <img src="https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,postgres">
