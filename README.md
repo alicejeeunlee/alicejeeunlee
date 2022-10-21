@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello World 🌎 I'm Alice 🤓</h1>
 
-<h3 align="left">A Full Stack Developer located in Irvine, CA.</h3>
+<h3 align="center">A Full Stack Developer located in Irvine, CA.</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee"></div></br>
 
 <img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" alt="Cowboy Bebop Edward coding">
 
