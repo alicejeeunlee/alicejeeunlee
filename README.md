@@ -13,17 +13,16 @@
 <h3>🌐 Let's connect!</h3>
 <a href="https://www.linkedin.com/in/alicejeeunlee/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-alicejeeunlee-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white" alt="LinkedIn: alicejeeunlee"/></a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee">
 
 <h3 align="left">📚 Stack</h3>
 <img src="https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,postgres">
 <h3 align="left">🔧 Tools</h3>
 <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,figma,bootstrap">
-  <div>
-    <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
-  </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 </div>
