@@ -19,7 +19,7 @@
 <h3>📚 Stack</h3>
 <img src="https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,postgres">
 <h3>🔧 Tools</h3>
-<img src="https://skillicons.dev/icons?i=github,git,vscode,docker,figma,bootstrap">
+<img src="https://skillicons.dev/icons?i=github,git,vscode,docker,figma,bootstrap,webpack">
 <div>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
