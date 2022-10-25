@@ -4,9 +4,9 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alicejeeunlee&show_icons=true&theme=tokyonight" alt="alicejeeunlee"></div></br>
 
-<img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" alt="Cowboy Bebop Edward coding">
 
 <h2>💬 About Me</h2>
+<img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" alt="Cowboy Bebop Edward coding">
 <p>I love figuring out how things work, tinkering with code, and problem-solving just about anything! I am particularly interested in the intersection of medicine, humanity, and technology.</p> 
 <p>I am a recent LearningFuze grad looking for a Junior Developer position!</p>
 
