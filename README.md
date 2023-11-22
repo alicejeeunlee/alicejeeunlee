@@ -12,7 +12,7 @@
 
 - 🐶 I’m currently working on [Woofles](https://github.com/alicejeeunlee/woofles)
 - 🌱 I’m currently learning **TypeScript**
-- 🥾 When I'm not coding, I'm somewhere outside hiking, swimming, camping, going on a trip! ...or watching anime 😅
+- 🥾 When I'm not coding, I'm somewhere outside hiking, swimming, camping, going on adventures!
 
 <h3>🌐 Let's connect!</h3>
 <a href="https://www.linkedin.com/in/alicejeeunlee/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-alicejeeunlee-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white" alt="LinkedIn: alicejeeunlee"/></a>
